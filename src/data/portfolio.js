@@ -1,0 +1,118 @@
+export const data = {
+  name: 'Jagadeesh R',
+  role: 'Aspiring Software Engineer | Full Stack Developer',
+  description: 'Passionate Information Technology student with strong skills in Full Stack Web Development and Software Engineering. Experienced in building scalable applications using React, Node.js, Spring Boot, and modern databases. Dedicated to creating efficient, user-friendly digital solutions and continuously learning emerging technologies.',
+  email: 'jagadeesh7904r@gmail.com',
+  phone: '7904049559',
+  linkedin: 'https://linkedin.com/in/jagadeesh-r-b2b965327',
+  github: 'https://github.com/Jagadeesh-2006r',
+  leetcode: 'https://leetcode.com/u/Jagadeesh_7904r/',
+  codechef: 'https://codechef.com/users/jagadeesh7904r',
+  skillrack: 'https://www.skillrack.com/faces/resume.xhtml?id=515460&key=40094f88cc5713652ae2a347b42fb1b7127595af',
+  title : 'resume', Link :'https://drive.google.com/file/d/1YKe5tECYtqBtcr1dktC7bYWMIrC_t-nZ/view?usp=sharing',
+
+  about: [
+    'Aspiring Information Technology professional with strong skills in Full Stack Web Development and Software Engineering. Experienced in building scalable applications using React, Node.js, Spring Boot, and modern databases.',
+    'Completed a MERN Stack internship with hands-on experience in authentication, role-based access control, RESTful APIs, and database management. Passionate about developing efficient, user-friendly digital solutions and continuously learning emerging technologies.',
+    'Actively involved in hackathons and collaborative technical events, demonstrating strong teamwork, innovation, and problem-solving skills. Passionate about Full Stack and Software Development, with a strong interest in building scalable and user-friendly digital solutions.',
+  ],
+
+  skills: [
+    { category: 'Programming Languages', items: [
+      { name: 'C',          icon: 'SiC' },
+      { name: 'C++',        icon: 'SiCplusplus' },
+      { name: 'Java',       icon: 'FaJava' },
+      { name: 'JavaScript', icon: 'SiJavascript' },
+      { name: 'Python',     icon: 'FaPython' },
+    ]},
+    { category: 'Frontend', items: [
+      { name: 'HTML',         icon: 'FaHtml5' },
+      { name: 'CSS',          icon: 'FaCss3Alt' },
+      { name: 'ReactJS',      icon: 'FaReact' },
+      { name: 'React Native', icon: 'TbBrandReactNative' },
+    ]},
+    { category: 'Backend', items: [
+      { name: 'NodeJS',      icon: 'FaNodeJs' },
+      { name: 'ExpressJS',   icon: 'SiExpress' },
+      { name: 'Spring Boot', icon: 'SiSpringboot' },
+    ]},
+    { category: 'Database', items: [
+      { name: 'PostgreSQL', icon: 'SiPostgresql' },
+      { name: 'MySQL',      icon: 'SiMysql' },
+      { name: 'MongoDB',    icon: 'SiMongodb' },
+    ]},
+    { category: 'Tools', items: [
+      { name: 'Git',            icon: 'FaGitAlt' },
+      { name: 'GitHub',         icon: 'FaGithub' },
+      { name: 'Postman',        icon: 'SiPostman' },
+      { name: 'AWS',            icon: 'FaAws' },
+      { name: 'Canva',          icon: 'SiCanva' },
+      { name: 'Power BI',       icon: 'SiPowerbi' },
+      { name: 'Thunder Client', icon: 'TbBolt' },
+      { name: 'VS Code',        icon: 'VscVscode' },
+    ]},
+    { category: 'Core Concepts', items: [
+      { name: 'DSA',  icon: 'FaCode' },
+      { name: 'OOPS', icon: 'FaCubes' },
+      { name: 'DBMS', icon: 'FaDatabase' },
+      { name: 'DCN',  icon: 'FaNetworkWired' },
+    ]},
+  ],
+
+  projects: [
+    {
+      title: 'Intelligent Content Moderation System',
+      description: 'Developed an AI-powered content moderation system that analyzes text, images, and videos in real time to detect harmful or inappropriate content. Uses Toxic-BERT, NSFW Detection, OpenCV, and Whisper to ensure a safer digital environment.',
+      tech: ['React', 'Django REST API', 'Toxic-BERT', 'HuggingFace', 'OpenCV', 'Whisper'],
+      frontendRepo: 'https://github.com/Jagadeesh-2006r/intelligent_content_moderation_system_frontend',
+      backendRepo:  'https://github.com/Jagadeesh-2006r/intelligent_content_moderation_system_backend',
+      mlRepo:       'https://github.com/Jagadeesh-2006r/intelligent_content_moderation_system_ml_engine',
+      demo: '',
+      date: 'March 2026',
+    },
+    {
+      title: 'Smart Voting System',
+      description: 'Built a secure offline voting solution using QR code scanning and biometric fingerprint authentication. Ensures secure voter verification, local data storage, and smooth voting experiences.',
+      tech: ['React', 'Django', 'SQLite'],
+      frontendRepo: 'https://github.com/Jagadeesh-2006r/Smart_voting_system_frontend',
+      backendRepo:  'https://github.com/Jagadeesh-2006r/Smart_voting_system_backend',
+      demo: '',
+      date: 'October 2025',
+    },
+    {
+      title: 'Mr.CFO – ML-Based Financial Intelligence Platform',
+      description: 'Built a financial management platform for medium enterprises to monitor revenue, expenses, and profit/loss. Integrated Isolation Forest for anomaly detection and XGBoost for forecasting.',
+      tech: ['React', 'Flask', 'Machine Learning', 'XGBoost'],
+      frontendRepo: 'https://github.com/Jagadeesh-2006r/Mr.CFO_frontend',
+      backendRepo:  'https://github.com/Jagadeesh-2006r/Mr.CFO_Backend',
+      demo: '',
+      date: 'August 2025',
+    },
+    {
+      title: 'AgroConnect – AI-Driven Smart Farming Platform',
+      description: 'Built an AI-powered farming platform offering irrigation scheduling, crop advisory, yield prediction, market analytics, and government scheme discovery using machine learning and full-stack architecture.',
+      tech: ['React', 'Node.js', 'MongoDB', 'Machine Learning'],
+      frontendRepo: 'https://github.com/Jagadeesh-2006r/Agro_Connect',
+      //backendRepo:  'https://github.com/your-github-url/agroconnect-backend',
+      demo: '',
+      date: 'July 2025',
+    },
+  ],
+
+  certificates: [
+    { title: 'HTML CSS Course for Beginner',                          platform: 'Udemy',     year: '2025',      icon: 'html',     link: 'https://drive.google.com/file/d/1rL_M-pN9J-sr3r7gYRXNOv9i19qxqiGN/view?usp=sharing' },
+    { title: 'Python complete course and flask framework',            platform: 'Udemy',     year: '2025',      icon: 'python',   link: 'https://drive.google.com/file/d/1fLPMKQaMQOuDvrQp0xn7SBIuyLOdYaU9/view?usp=sharing' },
+    { title: 'Mastering Data Structures & Algorithms using C and C++', platform: 'Udemy',   year: '2024',      icon: 'dsa',      link: 'https://drive.google.com/file/d/1O_eosVfPKDlj4kLFod_77qhxUr4tgVYW/view?usp=sharing' },
+    { title: 'Top DBMS Interview Questions',                          platform: 'Code Chef', year: '2025',      icon: 'database', link: 'https://drive.google.com/file/d/1HFStQqsLdB1vzMfOb6Asd0RW0RNKZppb/view?usp=sharing' },
+  ],
+
+  journey: [
+    { date: '2025', icon: 'rocket',      title: 'Started MERN Stack Development Journey',     desc: 'Began full-stack development journey with the MERN stack, building modern web applications.' },
+    { date: 'July 2025',    icon: 'seedling',   title: 'Built AgroConnect',                          desc: 'Built an AI-powered smart farming platform with ML-based crop advisory and yield prediction.' },
+    { date: 'August 2025',  icon: 'money',      title: 'Built Mr.CFO',                               desc: 'Built a financial management platform with Isolation Forest anomaly detection and XGBoost forecasting.' },
+    { date: 'October 2025', icon: 'fingerprint',title: 'Built Smart Voting System',                  desc: 'Developed a secure biometric-based offline voting system with QR code scanning and fingerprint authentication.' },
+    { date: '2025',         icon: 'trophy',     title: 'Won First Place in Creatathon',              desc: 'Won first place in Creatathon by building AgroConnect AI-based farming consultancy software.' },
+    { date: 'March 2026',   icon: 'shield',     title: 'Developed Intelligent Content Moderation System', desc: 'Built an AI-powered content moderation system using Toxic-BERT, OpenCV, and Whisper.' },
+    { date: '2026',         icon: 'robot',      title: 'Finalist in Agentica 2.0',                   desc: 'Achieved finalist position in Agentica 2.0 conducted by IIIT Sri City.' },
+  ],
+};
