@@ -9,7 +9,7 @@ export const data = {
   leetcode: 'https://leetcode.com/u/Jagadeesh_7904r/',
   codechef: 'https://codechef.com/users/jagadeesh7904r',
   skillrack: 'https://www.skillrack.com/faces/resume.xhtml?id=515460&key=40094f88cc5713652ae2a347b42fb1b7127595af',
-  title : 'resume', Link :'https://drive.google.com/file/d/1YKe5tECYtqBtcr1dktC7bYWMIrC_t-nZ/view?usp=sharing',
+  title : 'resume', Link :'https://drive.google.com/file/d/12hGMAFaq0-9PCxOaLHluOV2qRrlRRccg/view?usp=sharing',
 
   about: [
     'Aspiring Information Technology professional with strong skills in Full Stack Web Development and Software Engineering. Experienced in building scalable applications using React, Node.js, Spring Boot, and modern databases.',
