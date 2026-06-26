@@ -83,7 +83,7 @@ export const data = {
       title: 'Mr.CFO – ML-Based Financial Intelligence Platform',
       description: 'Built a financial management platform for medium enterprises to monitor revenue, expenses, and profit/loss. Integrated Isolation Forest for anomaly detection and XGBoost for forecasting.',
       tech: ['React', 'Flask', 'Machine Learning', 'XGBoost'],
-      githubRepo: 'https://github.com/Jagadeesh-2006r/Mr.CFO_VIT_Problem_statement',
+      frontendRepo: 'https://github.com/Jagadeesh-2006r/Mr.CFO_VIT_Problem_statement',
      // backendRepo:  'https://github.com/Jagadeesh-2006r/Mr.CFO_Backend',
       demo: '',
       date: 'August 2025',
