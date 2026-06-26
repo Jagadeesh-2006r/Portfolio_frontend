@@ -51,7 +51,7 @@ export default function Hero() {
           </p>
           <div className="flex gap-4 mt-2 flex-wrap">
             <a
-              href="https://drive.google.com/drive/u/0/folders/13FfX5yJdy7grHV0ThyoeF4HlT3bUNK5V"
+              href="https://drive.google.com/file/d/12hGMAFaq0-9PCxOaLHluOV2qRrlRRccg/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 py-3 font-semibold rounded-xl transition-all hover:scale-105 bg-gray-900 text-white dark:bg-[#2563EB] dark:text-white dark:hover:bg-[#1D4ED8] dark:hover:shadow-[0_0_20px_rgba(37,99,235,0.4)] inline-block text-center"
