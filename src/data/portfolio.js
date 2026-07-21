@@ -1,6 +1,6 @@
 export const data = {
   name: 'Jagadeesh R',
-  role: 'Aspiring Software Engineer | Full Stack Developer | UI/UX Designer',
+  role: 'Software Engineer | Full Stack Developer | UI/UX Designer',
   description: 'Passionate Information Technology student with strong skills in Full Stack Web Development and Software Engineering. Experienced in building scalable applications using React, Node.js, Spring Boot, and modern databases. Dedicated to creating efficient, user-friendly digital solutions and continuously learning emerging technologies.',
   email: 'jagadeesh7904r@gmail.com',
   phone: '7904049559',
